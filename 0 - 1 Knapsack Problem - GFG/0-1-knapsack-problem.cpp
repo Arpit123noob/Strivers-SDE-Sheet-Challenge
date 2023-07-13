@@ -6,7 +6,7 @@ using namespace std;
 // } Driver Code Ends
 class Solution
 {
-    public:
+
     //Function to return max value that can be put in knapsack of capacity W.
     int  t[1002][1002];
     
